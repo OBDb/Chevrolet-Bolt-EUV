@@ -7,6 +7,10 @@
   "signals": [
     {"id": "BOLT_HVBAT_TEMP", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "HV battery temperature"}
   ]},
+{ "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "4373"}, "freq": 5,
+  "signals": [
+    {"id": "BOLT_CHARGE_MODE", "path": "Battery", "fmt": { "len": 15, "len": 1, "map": {"0":{"description":"Not charging","value":"NOT_CHARGING"},"1":{"description":"Charging","value":"CHARGING"}} }, "name": "Charging mode", "suggestedMetric": "isCharging"}
+  ]},
 { "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "43AF"}, "freq": 1,
   "signals": [
     {"id": "BOLT_HVBAT_SOC_RAW", "path": "Battery", "fmt": {"len": 16, "max": 100, "mul": 100, "div": 65535, "unit": "percent" }, "name": "HV battery charge (raw)", "suggestedMetric": "stateOfCharge"}
