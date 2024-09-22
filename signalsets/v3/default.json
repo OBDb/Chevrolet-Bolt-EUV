@@ -1,4 +1,16 @@
 { "commands": [
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "000D"}, "freq": 0.25,
+  "signals": [
+    {"id": "BOLT_VSS", "path": "Movement", "fmt": {"len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
+  ]},
+{ "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "434F"}, "freq": 5,
+  "signals": [
+    {"id": "BOLT_HVBAT_TEMP", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "HV battery temperature"}
+  ]},
+{ "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "43AF"}, "freq": 1,
+  "signals": [
+    {"id": "BOLT_HVBAT_SOC_RAW", "path": "Battery", "fmt": {"len": 16, "max": 100, "mul": 100, "div": 65535, "unit": "percent" }, "name": "HV battery charge (raw)", "suggestedMetric": "stateOfCharge"}
+  ]},
 { "hdr": "7E4", "rax": "7EC", "fcm1": true, "cmd": {"22": "8334"}, "freq": 1,
   "signals": [
     {"id": "BOLT_HVBAT_SOC_DISPLAY", "path": "Battery", "fmt": {"len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "HV battery charge", "suggestedMetric": "stateOfCharge"}
