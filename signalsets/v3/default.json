@@ -37,7 +37,7 @@
   ]},
 { "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4531"}, "freq": 1,
   "signals": [
-    {"id": "BOLT_CHARGE_LVL", "path": "Battery", "fmt": {"len": 8, "map": {"0":{"description":"Not charging","value":"NOT_CHARGING"},"1":{"description":"A/C Level 1","value":"AC_1"},"2":{"description":"A/C Level 2","value":"A_2C"},"3":{"description":"DC","value":"DC"}} }, "name": "Charging level"}
+    {"id": "BOLT_CHARGE_LVL", "path": "Battery", "fmt": {"len": 8, "map": {"0":{"description":"Not charging","value":"NOT_CHARGING"},"1":{"description":"A/C Level 1","value":"AC_1"},"2":{"description":"A/C Level 2","value":"AC_2"},"3":{"description":"DC","value":"DC"}} }, "name": "Charging level"}
   ]},
 { "hdr": "7E4", "rax": "7EC", "cmd": {"22": "8334"}, "freq": 1,
   "signals": [
