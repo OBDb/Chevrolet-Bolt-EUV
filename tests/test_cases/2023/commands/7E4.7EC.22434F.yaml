@@ -4,6 +4,12 @@ test_cases:
     BOLT_HVBAT_TEMP: 17
   response: 7EC0462434F39
 - expected_values:
+    BOLT_HVBAT_TEMP: 24
+  response: 7EC0462434F40
+- expected_values:
+    BOLT_HVBAT_TEMP: 25
+  response: 7EC0462434F41
+- expected_values:
     BOLT_HVBAT_TEMP: 28
   response: 7EC0462434F44
 - expected_values:

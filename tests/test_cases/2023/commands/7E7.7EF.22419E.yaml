@@ -4,11 +4,11 @@ test_cases:
     BOLT_HVBAT_CMU30_VOLT: 3.63996
   response: 7EF0562419EBA5D
 - expected_values:
-    BOLT_HVBAT_CMU30_VOLT: 3.67308
-  response: 7EF0562419EBC0F
-- expected_values:
     BOLT_HVBAT_CMU30_VOLT: 3.68872
   response: 7EF0562419EBCDC
 - expected_values:
-    BOLT_HVBAT_CMU30_VOLT: 3.89311
-  response: 7EF0562419EC753
+    BOLT_HVBAT_CMU30_VOLT: 4.00435
+  response: 7EF0562419ECD05
+- expected_values:
+    BOLT_HVBAT_CMU30_VOLT: 4.02937
+  response: 7EF0562419ECE4D
