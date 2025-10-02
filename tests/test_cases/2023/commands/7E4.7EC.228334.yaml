@@ -21,3 +21,12 @@ test_cases:
 - expected_values:
     BOLT_HVBAT_SOC_DISPLAY: 71.37255
   response: 7EC04628334B6
+- expected_values:
+    BOLT_HVBAT_SOC_DISPLAY: 87.05882
+  response: 7EC04628334DE
+- expected_values:
+    BOLT_HVBAT_SOC_DISPLAY: 87.45098
+  response: 7EC04628334DF
+- expected_values:
+    BOLT_HVBAT_SOC_DISPLAY: 88.23529
+  response: 7EC04628334E1
