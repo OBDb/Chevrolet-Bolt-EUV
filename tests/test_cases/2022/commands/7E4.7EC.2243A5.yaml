@@ -1,6 +1,12 @@
 command_id: 7E4.7EC.2243A5
 test_cases:
 - expected_values:
+    BOLT_HVBAT_CHRG_CNT: 46
+  response: 7EC056243A5002E
+- expected_values:
+    BOLT_HVBAT_CHRG_CNT: 914
+  response: 7EC056243A50392
+- expected_values:
     BOLT_HVBAT_CHRG_CNT: 1492
   response: 7EC056243A505D4
 - expected_values:
