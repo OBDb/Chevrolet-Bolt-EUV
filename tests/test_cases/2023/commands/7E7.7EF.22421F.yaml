@@ -4,11 +4,8 @@ test_cases:
     BOLT_HVBAT_CMU63_VOLT: 3.64622
   response: 7EF0562421FBAAF
 - expected_values:
-    BOLT_HVBAT_CMU63_VOLT: 3.67308
-  response: 7EF0562421FBC0F
-- expected_values:
     BOLT_HVBAT_CMU63_VOLT: 3.69123
   response: 7EF0562421FBCFD
 - expected_values:
-    BOLT_HVBAT_CMU63_VOLT: 4.03059
-  response: 7EF0562421FCE5D
+    BOLT_HVBAT_CMU63_VOLT: 4.04372
+  response: 7EF0562421FCF09
