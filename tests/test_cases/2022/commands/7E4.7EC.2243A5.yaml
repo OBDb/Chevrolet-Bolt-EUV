@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     BOLT_HVBAT_CHRG_CNT: 1610
   response: 7EC056243A5064A
+- expected_values:
+    BOLT_HVBAT_CHRG_CNT: 1612
+  response: 7EC056243A5064C
