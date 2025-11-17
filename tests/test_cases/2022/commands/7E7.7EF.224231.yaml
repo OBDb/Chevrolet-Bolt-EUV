@@ -4,11 +4,11 @@ test_cases:
     BOLT_HVBAT_CMU81_VOLT: 3.53185
   response: 7EF05624231B4D4
 - expected_values:
+    BOLT_HVBAT_CMU81_VOLT: 3.65248
+  response: 7EF05624231BB01
+- expected_values:
     BOLT_HVBAT_CMU81_VOLT: 3.69123
   response: 7EF05624231BCFD
-- expected_values:
-    BOLT_HVBAT_CMU81_VOLT: 3.7306
-  response: 7EF05624231BF01
 - expected_values:
     BOLT_HVBAT_CMU81_VOLT: 4.00687
   response: 7EF05624231CD26
