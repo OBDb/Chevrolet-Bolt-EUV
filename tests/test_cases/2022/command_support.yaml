@@ -157,3 +157,8 @@ supported_commands_by_ecu:
   - 014E:CLR_TIME
   - 0151:FUEL_TYP
   - 015A:APP_R
+unsupported_commands_by_ecu:
+  "7E4":
+  - 7E4.7EC.0142
+  "7E7":
+  - 7E7.7EF.0142
