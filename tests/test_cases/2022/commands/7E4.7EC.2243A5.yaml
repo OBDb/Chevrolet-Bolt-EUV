@@ -4,29 +4,8 @@ test_cases:
     BOLT_HVBAT_CHRG_CNT: 46
   response: 7EC056243A5002E
 - expected_values:
-    BOLT_HVBAT_CHRG_CNT: 48
-  response: 7EC056243A50030
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 914
-  response: 7EC056243A50392
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 915
-  response: 7EC056243A50393
-- expected_values:
     BOLT_HVBAT_CHRG_CNT: 1492
   response: 7EC056243A505D4
 - expected_values:
     BOLT_HVBAT_CHRG_CNT: 1607
   response: 7EC056243A50647
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 1608
-  response: 7EC056243A50648
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 1609
-  response: 7EC056243A50649
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 1610
-  response: 7EC056243A5064A
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 1612
-  response: 7EC056243A5064C
