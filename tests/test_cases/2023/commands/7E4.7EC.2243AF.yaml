@@ -10,5 +10,5 @@ test_cases:
     BOLT_HVBAT_SOC_RAW: 88.68086
   response: 7EC056243AFE305
 - expected_values:
-    BOLT_HVBAT_SOC_RAW: 96.10437
-  response: 7EC056243AFF606
+    BOLT_HVBAT_SOC_RAW: 96.53925
+  response: 7EC056243AFF723
