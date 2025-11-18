@@ -4,11 +4,11 @@ test_cases:
     BOLT_HVBAT_CMU55_VOLT: 3.64057
   response: 7EF05624217BA65
 - expected_values:
+    BOLT_HVBAT_CMU55_VOLT: 4.02373
+  response: 7EF05624217CE03
+- expected_values:
     BOLT_HVBAT_CMU55_VOLT: 4.06249
   response: 7EF05624217CFFF
-- expected_values:
-    BOLT_HVBAT_CMU55_VOLT: 4.08248
-  response: 7EF05624217D105
 - expected_values:
     BOLT_HVBAT_CMU55_VOLT: 4.14183
   response: 7EF05624217D40F
