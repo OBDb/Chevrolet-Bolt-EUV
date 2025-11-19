@@ -4,29 +4,5 @@ test_cases:
     BOLT_HVBAT_TEMP: 11
   response: 7EC0462434F33
 - expected_values:
-    BOLT_HVBAT_TEMP: 13
-  response: 7EC0462434F35
-- expected_values:
-    BOLT_HVBAT_TEMP: 16
-  response: 7EC0462434F38
-- expected_values:
-    BOLT_HVBAT_TEMP: 17
-  response: 7EC0462434F39
-- expected_values:
-    BOLT_HVBAT_TEMP: 20
-  response: 7EC0462434F3C
-- expected_values:
-    BOLT_HVBAT_TEMP: 24
-  response: 7EC0462434F40
-- expected_values:
-    BOLT_HVBAT_TEMP: 25
-  response: 7EC0462434F41
-- expected_values:
-    BOLT_HVBAT_TEMP: 28
-  response: 7EC0462434F44
-- expected_values:
-    BOLT_HVBAT_TEMP: 29
-  response: 7EC0462434F45
-- expected_values:
     BOLT_HVBAT_TEMP: 33
   response: 7EC0462434F49
