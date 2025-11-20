@@ -4,11 +4,11 @@ test_cases:
     BOLT_HVBAT_CMU90_VOLT: 3.64187
   response: 7EF0562423ABA76
 - expected_values:
-    BOLT_HVBAT_CMU90_VOLT: 4.0425
-  response: 7EF0562423ACEF9
-- expected_values:
     BOLT_HVBAT_CMU90_VOLT: 4.04311
   response: 7EF0562423ACF01
+- expected_values:
+    BOLT_HVBAT_CMU90_VOLT: 4.06249
+  response: 7EF0562423ACFFF
 - expected_values:
     BOLT_HVBAT_CMU90_VOLT: 4.14122
   response: 7EF0562423AD407

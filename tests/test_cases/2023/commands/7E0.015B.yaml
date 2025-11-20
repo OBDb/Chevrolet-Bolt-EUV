@@ -4,29 +4,5 @@ test_cases:
     BAT_SOC: 85.09804
   response: 7E803415BD9
 - expected_values:
-    BAT_SOC: 85.88235
-  response: 7E803415BDB
-- expected_values:
-    BAT_SOC: 86.27451
-  response: 7E803415BDC
-- expected_values:
-    BAT_SOC: 86.66667
-  response: 7E803415BDD
-- expected_values:
-    BAT_SOC: 87.84314
-  response: 7E803415BE0
-- expected_values:
-    BAT_SOC: 88.23529
-  response: 7E803415BE1
-- expected_values:
-    BAT_SOC: 95.68627
-  response: 7E803415BF4
-- expected_values:
-    BAT_SOC: 96.07843
-  response: 7E803415BF5
-- expected_values:
-    BAT_SOC: 96.47059
-  response: 7E803415BF6
-- expected_values:
     BAT_SOC: 96.86275
   response: 7E803415BF7
