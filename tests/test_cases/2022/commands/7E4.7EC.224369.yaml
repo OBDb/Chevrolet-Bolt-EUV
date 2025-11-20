@@ -7,6 +7,9 @@ test_cases:
     BOLT_CHARGE_AC_CURR: 1.6
   response: 7EC0462436908
 - expected_values:
+    BOLT_CHARGE_AC_CURR: 3.2
+  response: 7EC0462436910
+- expected_values:
     BOLT_CHARGE_AC_CURR: 8
   response: 7EC0462436928
 - expected_values:
