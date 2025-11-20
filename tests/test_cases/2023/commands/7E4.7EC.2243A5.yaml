@@ -4,29 +4,11 @@ test_cases:
     BOLT_HVBAT_CHRG_CNT: 107
   response: 7EC056243A5006B
 - expected_values:
-    BOLT_HVBAT_CHRG_CNT: 369
-  response: 7EC056243A50171
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 415
-  response: 7EC056243A5019F
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 416
-  response: 7EC056243A501A0
+    BOLT_HVBAT_CHRG_CNT: 417
+  response: 7EC056243A501A1
 - expected_values:
     BOLT_HVBAT_CHRG_CNT: 524
   response: 7EC056243A5020C
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 525
-  response: 7EC056243A5020D
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 526
-  response: 7EC056243A5020E
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 798
-  response: 7EC056243A5031E
-- expected_values:
-    BOLT_HVBAT_CHRG_CNT: 800
-  response: 7EC056243A50320
 - expected_values:
     BOLT_HVBAT_CHRG_CNT: 1364
   response: 7EC056243A50554

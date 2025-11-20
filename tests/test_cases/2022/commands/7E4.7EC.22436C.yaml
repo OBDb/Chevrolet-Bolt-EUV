@@ -4,8 +4,8 @@ test_cases:
     BOLT_CHARGE_HV_CURR: 0
   response: 7EC0562436C0000
 - expected_values:
-    BOLT_CHARGE_HV_CURR: 127.7
-  response: 7EC0562436C09FA
+    BOLT_CHARGE_HV_CURR: 140.65
+  response: 7EC0562436C0AFD
 - expected_values:
-    BOLT_CHARGE_HV_CURR: 141.1
-  response: 7EC0562436C0B06
+    BOLT_CHARGE_HV_CURR: 140.9
+  response: 7EC0562436C0B02
