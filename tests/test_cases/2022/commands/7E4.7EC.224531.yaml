@@ -7,5 +7,8 @@ test_cases:
     BOLT_CHARGE_LVL: AC_1
   response: 7EC0462453101
 - expected_values:
+    BOLT_CHARGE_LVL: AC_2
+  response: 7EC0462453102
+- expected_values:
     BOLT_CHARGE_LVL: DC
   response: 7EC0462453103
