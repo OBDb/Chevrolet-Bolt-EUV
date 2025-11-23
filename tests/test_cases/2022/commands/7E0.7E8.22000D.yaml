@@ -4,5 +4,10 @@ test_cases:
     BOLT_VSS: 0
   response: 7E80462000D00
 - expected_values:
+    BOLT_VSS: 0
+  response: |-
+    7E80462000D00
+    7E90462000D00
+- expected_values:
     BOLT_VSS: 255
   response: 7E80462000DFF
