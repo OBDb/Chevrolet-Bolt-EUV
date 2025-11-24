@@ -160,7 +160,11 @@ supported_commands_by_ecu:
   - 0151:FUEL_TYP
   - 015A:APP_R
 unsupported_commands_by_ecu:
+  "7E1":
+  - 7E1.7E9.0142
   "7E4":
   - 7E4.7EC.0142
+  "7E6":
+  - 7E6.7EE.0142
   "7E7":
   - 7E7.7EF.0142
