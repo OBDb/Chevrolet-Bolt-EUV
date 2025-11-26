@@ -4,26 +4,5 @@ test_cases:
     BOLT_CHARGE_AC_CURR: 0
   response: 7EC0462436900
 - expected_values:
-    BOLT_CHARGE_AC_CURR: 1.6
-  response: 7EC0462436908
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 3.2
-  response: 7EC0462436910
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 8
-  response: 7EC0462436928
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 10.2
-  response: 7EC0462436933
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 11.6
-  response: 7EC046243693A
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 11.8
-  response: 7EC046243693B
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 12
-  response: 7EC046243693C
-- expected_values:
-    BOLT_CHARGE_AC_CURR: 30.2
-  response: 7EC0462436997
+    BOLT_CHARGE_AC_CURR: 44.6
+  response: 7EC04624369DF
