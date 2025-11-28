@@ -1,8 +1,8 @@
 command_id: 7E7.7EF.224236
 test_cases:
 - expected_values:
-    BOLT_HVBAT_CMU86_VOLT: 3.25933
-  response: 7EF05624236A6E0
+    BOLT_HVBAT_CMU86_VOLT: 3.23308
+  response: 7EF05624236A588
 - expected_values:
     BOLT_HVBAT_CMU86_VOLT: 3.43748
   response: 7EF05624236AFFF
