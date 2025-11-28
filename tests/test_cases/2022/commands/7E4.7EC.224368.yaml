@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     BOLT_CHARGE_AC_VOLT: 232
   response: 7EC0462436874
+- expected_values:
+    BOLT_CHARGE_AC_VOLT: 236
+  response: 7EC0462436876
