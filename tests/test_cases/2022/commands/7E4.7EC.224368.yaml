@@ -4,5 +4,5 @@ test_cases:
     BOLT_CHARGE_AC_VOLT: 0
   response: 7EC0462436800
 - expected_values:
-    BOLT_CHARGE_AC_VOLT: 240
-  response: 7EC0462436878
+    BOLT_CHARGE_AC_VOLT: 246
+  response: 7EC046243687B
