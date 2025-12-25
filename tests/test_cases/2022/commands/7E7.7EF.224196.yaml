@@ -4,11 +4,11 @@ test_cases:
     BOLT_HVBAT_CMU22_VOLT: 3.24247
   response: 7EF05624196A603
 - expected_values:
+    BOLT_HVBAT_CMU22_VOLT: 3.35935
+  response: 7EF05624196ABFF
+- expected_values:
     BOLT_HVBAT_CMU22_VOLT: 3.4181
   response: 7EF05624196AF01
-- expected_values:
-    BOLT_HVBAT_CMU22_VOLT: 3.43748
-  response: 7EF05624196AFFF
 - expected_values:
     BOLT_HVBAT_CMU22_VOLT: 4.1812
   response: 7EF05624196D613
