@@ -7,5 +7,5 @@ test_cases:
     BOLT_HVBAT_CMU64_VOLT: 3.43748
   response: 7EF05624220AFFF
 - expected_values:
-    BOLT_HVBAT_CMU64_VOLT: 4.16182
-  response: 7EF05624220D515
+    BOLT_HVBAT_CMU64_VOLT: 4.17998
+  response: 7EF05624220D603
