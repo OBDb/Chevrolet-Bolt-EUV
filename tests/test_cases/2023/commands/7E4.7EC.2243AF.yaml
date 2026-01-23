@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.2243AF
 test_cases:
 - expected_values:
-    BOLT_HVBAT_SOC_RAW: 35.78698
-  response: 7EC056243AF5B9D
+    BOLT_HVBAT_SOC_RAW: 30.79576
+  response: 7EC056243AF4ED6
 - expected_values:
     BOLT_HVBAT_SOC_RAW: 45.31167
   response: 7EC056243AF73FF
