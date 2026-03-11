@@ -7,5 +7,8 @@ test_cases:
     BOLT_HVBAT_CHRG_CNT: 510
   response: 7EC056243A501FE
 - expected_values:
+    BOLT_HVBAT_CHRG_CNT: 512
+  response: 7EC056243A50200
+- expected_values:
     BOLT_HVBAT_CHRG_CNT: 2308
   response: 7EC056243A50904
