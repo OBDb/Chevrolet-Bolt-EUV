@@ -1,5 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Bolt_EUV"
+
 generations:
   - name: "First Generation"
-    start_year: 2022
+    start_year: 2021
     end_year: 2023
     description: "The Chevrolet Bolt EUV (Electric Utility Vehicle) was a compact electric crossover SUV based on the same BEV2 platform as the Bolt EV but with a longer wheelbase and overall length. The exterior design featured a more SUV-like appearance compared to the standard Bolt, with distinct styling elements including a longer hood, different front fascia, and roof rails. Powered by the same electric drivetrain as the Bolt EV, it used a 65 kWh lithium-ion battery pack and a single front-mounted motor producing 200 HP and 266 lb-ft of torque. The EPA-estimated range was 247 miles, slightly less than the standard Bolt EV due to the EUV's larger size and weight. The interior offered more rear legroom than the Bolt EV and featured a 10.2-inch touchscreen infotainment system, wireless Apple CarPlay and Android Auto, and available features like a panoramic sunroof not offered on the standard Bolt. Most significantly, the Bolt EUV was the first Chevrolet vehicle to offer GM's Super Cruise hands-free driver assistance system. Despite its short production run, the Bolt EUV represented an important step in GM's electric vehicle strategy, offering a more spacious alternative to the standard Bolt with crossover styling cues at an accessible price point. Production ended in 2023 as GM shifted focus to vehicles built on its next-generation Ultium platform."
