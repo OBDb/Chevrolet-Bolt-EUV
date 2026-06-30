@@ -2,6 +2,12 @@ command_id: 7E4.7EC.224531
 test_cases:
 - expected_values:
     BOLT_CHARGE_LVL: NOT_CHARGING
+  response: |-
+    7EC035AA000
+    7EC0462453100
+    7EC065ACC016EDC43
+- expected_values:
+    BOLT_CHARGE_LVL: NOT_CHARGING
   response: 7EC0462453100
 - expected_values:
     BOLT_CHARGE_LVL: NOT_CHARGING
