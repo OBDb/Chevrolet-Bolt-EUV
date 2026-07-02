@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     APP_D: 20
   response: '7E803414933'
+- expected_values:
+    APP_D: 20.39216
+  response: '7E803414934'
