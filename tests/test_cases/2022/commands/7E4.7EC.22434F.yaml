@@ -11,5 +11,5 @@ test_cases:
     7EC056244700023
     7EC056241A649A1
 - expected_values:
-    BOLT_HVBAT_TEMP: 34
-  response: 7EC0462434F4A
+    BOLT_HVBAT_TEMP: 35
+  response: 7EC0462434F4B
