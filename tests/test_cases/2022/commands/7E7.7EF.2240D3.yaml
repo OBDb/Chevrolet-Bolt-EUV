@@ -1,0 +1,23 @@
+command_id: 7E7.7EF.2240D3
+test_cases:
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.01572
+  response: 7EF056240D300CE
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.01579
+  response: 7EF056240D300CF
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.01587
+  response: 7EF056240D300D0
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.01595
+  response: 7EF056240D300D1
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.01602
+  response: 7EF056240D300D2
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.0161
+  response: 7EF056240D300D3
+- expected_values:
+    BOLT_BAT_5V_REFERENCE_V_1: 5.01617
+  response: 7EF056240D300D4

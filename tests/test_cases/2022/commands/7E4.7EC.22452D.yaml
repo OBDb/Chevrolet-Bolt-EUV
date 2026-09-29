@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22452D
+test_cases:
+- expected_values:
+    BOLT_CHARGER_AC_INPUT: 31.37255
+  response: 7EC0462452D50
+- expected_values:
+    BOLT_CHARGER_AC_INPUT: 31.76471
+  response: 7EC0462452D51

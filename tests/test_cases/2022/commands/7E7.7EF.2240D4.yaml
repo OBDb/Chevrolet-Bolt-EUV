@@ -1,0 +1,26 @@
+command_id: 7E7.7EF.2240D4
+test_cases:
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 1.4
+  response: 7EF056240D4001C
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 1.45
+  response: 7EF056240D4001D
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 1.6
+  response: 7EF056240D40020
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 1.65
+  response: 7EF056240D40021
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 1.8
+  response: 7EF056240D40024
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 1.9
+  response: 7EF056240D40026
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 2.05
+  response: 7EF056240D40029
+- expected_values:
+    BOLT_BAT_PACK_CURRENT_HD: 2.1
+  response: 7EF056240D4002A
