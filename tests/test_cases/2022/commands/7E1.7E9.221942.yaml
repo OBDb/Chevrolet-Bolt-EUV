@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     BOLT_TRANS_RPM: 0
   response: '7E9056219420000'
+- expected_values:
+    BOLT_TRANS_RPM: 3.25
+  response: 7E905621942001A
+- expected_values:
+    BOLT_TRANS_RPM: 1264.875
+  response: '7E9056219422787'
+- expected_values:
+    BOLT_TRANS_RPM: 2999.875
+  response: 7E9056219425DBF

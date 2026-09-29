@@ -736,19 +736,19 @@
   "signals": [
     {"id": "BOLT_HOOD_POS", "path": "Doors", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Hood position"}
   ]},
-{ "hdr": "7E6", "rax": "7EE", "dbg": true, "cmd": {"22": "4501"}, "freq": 0.25,
+{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "4501"}, "freq": 0.25, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "BOLT_BRAKE_PEDAL_POS_1", "path": "Control", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "millimeters" }, "name": "Brake pedal position 1"}
   ]},
-{ "hdr": "7E6", "rax": "7EE", "dbg": true, "cmd": {"22": "4502"}, "freq": 0.25,
+{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "4502"}, "freq": 0.25, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "BOLT_BRAKE_PEDAL_POS_2", "path": "Control", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "millimeters" }, "name": "Brake pedal position 2"}
   ]},
-{ "hdr": "7E6", "rax": "7EE", "dbg": true, "cmd": {"22": "4509"}, "freq": 5,
+{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "4509"}, "freq": 5, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "BOLT_BRAKE_MOTOR_DRIVER_1", "path": "Control", "fmt": { "len": 8, "max": 127, "min": -128, "sign": true, "unit": "celsius" }, "name": "Brake motor driver temperature 1"}
   ]},
-{ "hdr": "7E6", "rax": "7EE", "dbg": true, "cmd": {"22": "450A"}, "freq": 5,
+{ "hdr": "7E6", "rax": "7EE", "cmd": {"22": "450A"}, "freq": 5, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "BOLT_BRAKE_MOTOR_DRIVER_2", "path": "Control", "fmt": { "len": 8, "max": 127, "min": -128, "sign": true, "unit": "celsius" }, "name": "Brake motor driver temperature 2"}
   ]},

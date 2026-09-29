@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     BOLT_BAT_CELL_MAX_V: 4.02
   response: 7EC0562432B1A2C
+- expected_values:
+    BOLT_BAT_CELL_MAX_V: 4.0602
+  response: 7EC0562432B1A6F
+- expected_values:
+    BOLT_BAT_CELL_MAX_V: 4.08
+  response: 7EC0562432B1A90
+- expected_values:
+    BOLT_BAT_CELL_MAX_V: 4.0998
+  response: 7EC0562432B1AB1

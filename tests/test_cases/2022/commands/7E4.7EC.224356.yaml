@@ -4,5 +4,8 @@ test_cases:
     BOLT_HIGH_V_CURRENT: -1.94757
   response: 7EC05624356000D
 - expected_values:
-    BOLT_HIGH_V_CURRENT: -2.09738
-  response: 7EC05624356000E
+    BOLT_HIGH_V_CURRENT: 9.58801
+  response: 7EC05624356FFC0
+- expected_values:
+    BOLT_HIGH_V_CURRENT: 0.59925
+  response: 7EC05624356FFFC

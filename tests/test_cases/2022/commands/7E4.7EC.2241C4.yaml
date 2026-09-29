@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_HIGH_V_INVERTER_V_HD: 167.5
   response: 7EC056241C41A2C
+- expected_values:
+    BOLT_HIGH_V_INVERTER_V_HD: 168.325
+  response: 7EC056241C41A4D
+- expected_values:
+    BOLT_HIGH_V_INVERTER_V_HD: 169.175
+  response: 7EC056241C41A6F

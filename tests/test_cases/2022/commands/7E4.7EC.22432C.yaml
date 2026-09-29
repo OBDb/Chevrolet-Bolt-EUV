@@ -4,26 +4,5 @@ test_cases:
     BOLT_BAT_CELL_MAX: 10
   response: 7EC0462432C0A
 - expected_values:
-    BOLT_BAT_CELL_MAX: 16
-  response: 7EC0462432C10
-- expected_values:
-    BOLT_BAT_CELL_MAX: 31
-  response: 7EC0462432C1F
-- expected_values:
-    BOLT_BAT_CELL_MAX: 33
-  response: 7EC0462432C21
-- expected_values:
-    BOLT_BAT_CELL_MAX: 75
-  response: 7EC0462432C4B
-- expected_values:
-    BOLT_BAT_CELL_MAX: 76
-  response: 7EC0462432C4C
-- expected_values:
-    BOLT_BAT_CELL_MAX: 77
-  response: 7EC0462432C4D
-- expected_values:
-    BOLT_BAT_CELL_MAX: 78
-  response: 7EC0462432C4E
-- expected_values:
-    BOLT_BAT_CELL_MAX: 80
-  response: 7EC0462432C50
+    BOLT_BAT_CELL_MAX: 95
+  response: 7EC0462432C5F

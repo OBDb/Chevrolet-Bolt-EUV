@@ -4,5 +4,5 @@ test_cases:
     BOLT_CABIN_AC_HIGH_SIDE_P: 43
   response: 7E8046215642B
 - expected_values:
-    BOLT_CABIN_AC_HIGH_SIDE_P: 44
-  response: 7E8046215642C
+    BOLT_CABIN_AC_HIGH_SIDE_P: 89
+  response: '7E80462156459'
