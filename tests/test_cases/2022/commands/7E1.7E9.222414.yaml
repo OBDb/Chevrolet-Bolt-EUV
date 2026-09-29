@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222414
+test_cases:
+- expected_values:
+    BOLT_HIGH_V_CURRENT_HD: -1.75
+  response: 7E905622414FFDD

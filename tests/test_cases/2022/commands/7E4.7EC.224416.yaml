@@ -1,0 +1,26 @@
+command_id: 7E4.7EC.224416
+test_cases:
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC06624416030728
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC0662441603072D
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC06624416030732
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC06624416030737
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC06624416030800
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC06624416030805
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC0662441603080A
+- expected_values:
+    BOLT_CLOCK_DOW: 3
+  response: 7EC0662441603080F

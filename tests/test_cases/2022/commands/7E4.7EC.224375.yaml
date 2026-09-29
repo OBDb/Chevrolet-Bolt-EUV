@@ -1,0 +1,20 @@
+command_id: 7E4.7EC.224375
+test_cases:
+- expected_values:
+    BOLT_CHARGER_POWER_OUTPUT: 724
+  response: 7EC0562437502D4
+- expected_values:
+    BOLT_CHARGER_POWER_OUTPUT: 725
+  response: 7EC0562437502D5
+- expected_values:
+    BOLT_CHARGER_POWER_OUTPUT: 726
+  response: 7EC0562437502D6
+- expected_values:
+    BOLT_CHARGER_POWER_OUTPUT: 727
+  response: 7EC0562437502D7
+- expected_values:
+    BOLT_CHARGER_POWER_OUTPUT: 728
+  response: 7EC0562437502D8
+- expected_values:
+    BOLT_CHARGER_POWER_OUTPUT: 729
+  response: 7EC0562437502D9

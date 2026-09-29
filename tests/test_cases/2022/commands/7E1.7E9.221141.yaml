@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221141
+test_cases:
+- expected_values:
+    BOLT_IGN_V: 0
+  response: '7E90462114100'

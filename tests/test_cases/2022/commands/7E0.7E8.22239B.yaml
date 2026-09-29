@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22239B
+test_cases:
+- expected_values:
+    BOLT_ACTIVE_GRILLE_COLD_T: 24
+  response: 7E80462239B18
