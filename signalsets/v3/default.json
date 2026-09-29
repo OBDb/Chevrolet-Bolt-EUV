@@ -417,7 +417,7 @@
   "signals": [
     {"id": "BOLT_CABIN_AC_MEAS_W", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "watts" }, "name": "Cabin A/C power, measured"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "41B3"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "41B3"}, "freq": 1,
   "signals": [
     {"id": "BOLT_CABIN_HEATER_COMMAND_W", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "watts" }, "name": "Cabin heater power, commanded"}
   ]},
