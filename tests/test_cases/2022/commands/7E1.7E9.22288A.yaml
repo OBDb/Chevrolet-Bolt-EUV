@@ -10,5 +10,14 @@ test_cases:
     BOLT_TRANS_TQ_REQ: 6
   response: 7E90562288A580C
 - expected_values:
+    BOLT_TRANS_TQ_REQ: 10
+  response: 7E90562288A5810
+- expected_values:
+    BOLT_TRANS_TQ_REQ: 31
+  response: 7E90562288A5825
+- expected_values:
     BOLT_TRANS_TQ_REQ: 33
   response: 7E90562288A5827
+- expected_values:
+    BOLT_TRANS_TQ_REQ: 44
+  response: 7E90562288A5832

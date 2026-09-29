@@ -4,5 +4,8 @@ test_cases:
     BOLT_IGN_INPUT_ON_OFF: 0
   response: 7E9046220D000
 - expected_values:
+    BOLT_IGN_INPUT_ON_OFF: 128
+  response: 7E9046220D080
+- expected_values:
     BOLT_IGN_INPUT_ON_OFF: 192
   response: 7E9046220D0C0

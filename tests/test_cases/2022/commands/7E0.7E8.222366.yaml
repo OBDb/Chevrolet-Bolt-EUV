@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.222366
 test_cases:
 - expected_values:
+    BOLT_ACTIVE_GRILLE_SHUTTER_POS: 81.17647
+  response: 7E804622366CF
+- expected_values:
     BOLT_ACTIVE_GRILLE_SHUTTER_POS: 100
   response: 7E804622366FF
