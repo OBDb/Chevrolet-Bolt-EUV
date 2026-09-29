@@ -7,8 +7,14 @@ test_cases:
     BOLT_BAT_CELL_MIN: 25
   response: 7EC0462432A19
 - expected_values:
+    BOLT_BAT_CELL_MIN: 28
+  response: 7EC0462432A1C
+- expected_values:
     BOLT_BAT_CELL_MIN: 42
   response: 7EC0462432A2A
+- expected_values:
+    BOLT_BAT_CELL_MIN: 49
+  response: 7EC0462432A31
 - expected_values:
     BOLT_BAT_CELL_MIN: 50
   response: 7EC0462432A32

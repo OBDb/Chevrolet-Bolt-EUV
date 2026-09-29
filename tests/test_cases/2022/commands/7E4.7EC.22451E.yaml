@@ -22,6 +22,9 @@ test_cases:
     BOLT_CABIN_BLOWER_MOTOR: 39.21569
   response: 7EC0462451E64
 - expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 39.60784
+  response: 7EC0462451E65
+- expected_values:
     BOLT_CABIN_BLOWER_MOTOR: 40
   response: 7EC0462451E66
 - expected_values:

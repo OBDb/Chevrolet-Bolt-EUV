@@ -4,20 +4,8 @@ test_cases:
     BOLT_MOTOR_PHASE_V: 0
   response: 7E9056228E10000
 - expected_values:
-    BOLT_MOTOR_PHASE_V: 0.44
-  response: 7E9056228E1000B
+    BOLT_MOTOR_PHASE_V: -7
+  response: 7E9056228E1FF51
 - expected_values:
-    BOLT_MOTOR_PHASE_V: 0.84
-  response: 7E9056228E10015
-- expected_values:
-    BOLT_MOTOR_PHASE_V: 1.28
-  response: 7E9056228E10020
-- expected_values:
-    BOLT_MOTOR_PHASE_V: 9.6
-  response: 7E9056228E100F0
-- expected_values:
-    BOLT_MOTOR_PHASE_V: -1.68
-  response: 7E9056228E1FFD6
-- expected_values:
-    BOLT_MOTOR_PHASE_V: -0.4
-  response: 7E9056228E1FFF6
+    BOLT_MOTOR_PHASE_V: -0.08
+  response: 7E9056228E1FFFE

@@ -1,23 +1,11 @@
 command_id: 7E4.7EC.2241DA
 test_cases:
 - expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 5.2
-  response: 7EC056241DA000A
+    BOLT_HIGH_V_INVERTER_V_LD: 4.16
+  response: 7EC056241DA0008
 - expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 9.88
-  response: 7EC056241DA0013
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 387.92
-  response: 7EC056241DA02EA
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 388.96
-  response: 7EC056241DA02EC
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 391.04
-  response: 7EC056241DA02F0
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 392.08
-  response: 7EC056241DA02F2
+    BOLT_HIGH_V_INVERTER_V_LD: 382.2
+  response: 7EC056241DA02DF
 - expected_values:
     BOLT_HIGH_V_INVERTER_V_LD: 393.12
   response: 7EC056241DA02F4

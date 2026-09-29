@@ -7,5 +7,11 @@ test_cases:
     BOLT_ATF_T: 30
   response: '7E90462194046'
 - expected_values:
+    BOLT_ATF_T: 31
+  response: '7E90462194047'
+- expected_values:
     BOLT_ATF_T: 32
   response: '7E90462194048'
+- expected_values:
+    BOLT_ATF_T: 34
+  response: 7E9046219404A

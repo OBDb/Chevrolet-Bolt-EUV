@@ -1,6 +1,9 @@
 command_id: 7E4.7EC.2241C4
 test_cases:
 - expected_values:
+    BOLT_HIGH_V_INVERTER_V_HD: 165.825
+  response: 7EC056241C419E9
+- expected_values:
     BOLT_HIGH_V_INVERTER_V_HD: 167.5
   response: 7EC056241C41A2C
 - expected_values:

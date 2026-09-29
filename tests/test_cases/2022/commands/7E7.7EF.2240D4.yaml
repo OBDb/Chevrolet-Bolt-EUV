@@ -4,11 +4,8 @@ test_cases:
     BOLT_BAT_PACK_CURRENT_HD: 1.4
   response: 7EF056240D4001C
 - expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: -62.7
-  response: 7EF056240D4FB1A
+    BOLT_BAT_PACK_CURRENT_HD: -11.95
+  response: 7EF056240D4FF11
 - expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: -11.2
-  response: 7EF056240D4FF20
-- expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: -1.75
-  response: 7EF056240D4FFDD
+    BOLT_BAT_PACK_CURRENT_HD: -0.35
+  response: 7EF056240D4FFF9
