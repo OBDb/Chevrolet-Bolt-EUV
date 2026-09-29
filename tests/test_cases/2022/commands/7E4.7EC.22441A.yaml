@@ -1,8 +1,14 @@
 command_id: 7E4.7EC.22441A
 test_cases:
 - expected_values:
+    BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 1.95
+  response: 7EC0562441A000F
+- expected_values:
     BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 62.01
   response: 7EC0562441A01DD
+- expected_values:
+    BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 192.01
+  response: 7EC0562441A05C5
 - expected_values:
     BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 193.96
   response: 7EC0562441A05D4

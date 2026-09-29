@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.2228CB
 test_cases:
 - expected_values:
+    BOLT_MOTOR_T: 53
+  response: 7E9046228CB5D
+- expected_values:
     BOLT_MOTOR_T: 55
   response: 7E9046228CB5F
 - expected_values:

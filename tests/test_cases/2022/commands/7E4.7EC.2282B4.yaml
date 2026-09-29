@@ -4,8 +4,8 @@ test_cases:
     BOLT_CABIN_AC_COMP_SPD_CMD: 0
   response: 7EC056282B40000
 - expected_values:
-    BOLT_CABIN_AC_COMP_SPD_CMD: 1006
-  response: 7EC056282B403EE
+    BOLT_CABIN_AC_COMP_SPD_CMD: 1269
+  response: 7EC056282B404F5
 - expected_values:
     BOLT_CABIN_AC_COMP_SPD_CMD: 3085
   response: 7EC056282B40C0D

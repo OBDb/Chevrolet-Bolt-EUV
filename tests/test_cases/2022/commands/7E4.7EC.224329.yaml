@@ -1,6 +1,9 @@
 command_id: 7E4.7EC.224329
 test_cases:
 - expected_values:
+    BOLT_BAT_CELL_MIN_V: 3.9798
+  response: 7EC0562432919E9
+- expected_values:
     BOLT_BAT_CELL_MIN_V: 4.02
   response: 7EC056243291A2C
 - expected_values:

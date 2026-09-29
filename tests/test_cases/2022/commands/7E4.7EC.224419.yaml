@@ -4,6 +4,15 @@ test_cases:
     BOLT_MOTOR_CTRL_MODULE_V: 0
   response: 7EC056244190000
 - expected_values:
+    BOLT_MOTOR_CTRL_MODULE_V: 1.95
+  response: 7EC05624419000F
+- expected_values:
+    BOLT_MOTOR_CTRL_MODULE_V: 4.03
+  response: 7EC05624419001F
+- expected_values:
+    BOLT_MOTOR_CTRL_MODULE_V: 190.06
+  response: 7EC0562441905B6
+- expected_values:
     BOLT_MOTOR_CTRL_MODULE_V: 192.01
   response: 7EC0562441905C5
 - expected_values:

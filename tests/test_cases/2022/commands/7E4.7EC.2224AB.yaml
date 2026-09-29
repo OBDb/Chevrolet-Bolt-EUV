@@ -7,5 +7,5 @@ test_cases:
     BOLT_CHARGER_SYSTEM: 508
   response: 7EC056224AB00FE
 - expected_values:
-    BOLT_CHARGER_SYSTEM: 538
-  response: 7EC056224AB010D
+    BOLT_CHARGER_SYSTEM: 2574
+  response: 7EC056224AB0507

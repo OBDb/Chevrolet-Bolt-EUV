@@ -4,8 +4,17 @@ test_cases:
     BOLT_THROTTLE_POS_CALC: 0
   response: '7E90462281000'
 - expected_values:
+    BOLT_THROTTLE_POS_CALC: 15.29412
+  response: '7E90462281027'
+- expected_values:
+    BOLT_THROTTLE_POS_CALC: 21.56863
+  response: '7E90462281037'
+- expected_values:
     BOLT_THROTTLE_POS_CALC: 23.52941
   response: 7E9046228103C
 - expected_values:
     BOLT_THROTTLE_POS_CALC: 25.88235
   response: '7E90462281042'
+- expected_values:
+    BOLT_THROTTLE_POS_CALC: 44.70588
+  response: '7E90462281072'

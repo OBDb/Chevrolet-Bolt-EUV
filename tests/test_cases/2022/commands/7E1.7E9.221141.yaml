@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     BOLT_IGN_V: 12.7
   response: 7E9046211417F
+- expected_values:
+    BOLT_IGN_V: 13.5
+  response: '7E90462114187'
+- expected_values:
+    BOLT_IGN_V: 13.8
+  response: 7E9046211418A
