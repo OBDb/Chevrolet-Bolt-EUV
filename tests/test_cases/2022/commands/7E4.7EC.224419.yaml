@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224419
+test_cases:
+- expected_values:
+    BOLT_MOTOR_CTRL_MODULE_V: 0
+  response: 7EC056244190000

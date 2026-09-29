@@ -1,0 +1,23 @@
+command_id: 7E4.7EC.224376
+test_cases:
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 947
+  response: 7EC0562437603B3
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 948
+  response: 7EC0562437603B4
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 949
+  response: 7EC0562437603B5
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 950
+  response: 7EC0562437603B6
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 951
+  response: 7EC0562437603B7
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 952
+  response: 7EC0562437603B8
+- expected_values:
+    BOLT_CHARGER_BAT_CHARGER: 953
+  response: 7EC0562437603B9
