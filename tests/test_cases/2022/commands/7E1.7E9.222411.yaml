@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_BAT_PACK_ST_CHG_RAW_2: 49.80392
   response: 7E9046224117F
+- expected_values:
+    BOLT_BAT_PACK_ST_CHG_RAW_2: 88.62745
+  response: 7E904622411E2
+- expected_values:
+    BOLT_BAT_PACK_ST_CHG_RAW_2: 89.01961
+  response: 7E904622411E3

@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     BOLT_CABIN_BLOWER_MOTOR: 0
   response: 7EC0462451E00
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 36.07843
+  response: 7EC0462451E5C
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 37.2549
+  response: 7EC0462451E5F
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 38.03922
+  response: 7EC0462451E61
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 38.43137
+  response: 7EC0462451E62
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 38.82353
+  response: 7EC0462451E63
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 39.21569
+  response: 7EC0462451E64
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 40
+  response: 7EC0462451E66
+- expected_values:
+    BOLT_CABIN_BLOWER_MOTOR: 40.78431
+  response: 7EC0462451E68

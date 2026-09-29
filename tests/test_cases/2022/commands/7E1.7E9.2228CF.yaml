@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_MOTOR_CONTROLLER_V: 61.47
   response: 7E9056228CF1803
+- expected_values:
+    BOLT_MOTOR_CONTROLLER_V: 194.45
+  response: 7E9056228CF4BF5
+- expected_values:
+    BOLT_MOTOR_CONTROLLER_V: 197.23
+  response: 7E9056228CF4D0B

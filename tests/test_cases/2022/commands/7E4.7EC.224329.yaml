@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_BAT_CELL_MIN_V: 4.02
   response: 7EC056243291A2C
+- expected_values:
+    BOLT_BAT_CELL_MIN_V: 4.0398
+  response: 7EC056243291A4D
+- expected_values:
+    BOLT_BAT_CELL_MIN_V: 4.0602
+  response: 7EC056243291A6F

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     BOLT_BAT_PACK_TERMINAL_V: 386
   response: 7EF046282A3C1
+- expected_values:
+    BOLT_BAT_PACK_TERMINAL_V: 388
+  response: 7EF046282A3C2
+- expected_values:
+    BOLT_BAT_PACK_TERMINAL_V: 390
+  response: 7EF046282A3C3

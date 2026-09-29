@@ -4,20 +4,11 @@ test_cases:
     BOLT_BAT_5V_REFERENCE_V_1: 5.01572
   response: 7EF056240D300CE
 - expected_values:
-    BOLT_BAT_5V_REFERENCE_V_1: 5.01579
-  response: 7EF056240D300CF
+    BOLT_BAT_5V_REFERENCE_V_1: 4.94064
+  response: 7EF056240D3FCF6
 - expected_values:
-    BOLT_BAT_5V_REFERENCE_V_1: 5.01587
-  response: 7EF056240D300D0
+    BOLT_BAT_5V_REFERENCE_V_1: 4.94301
+  response: 7EF056240D3FD15
 - expected_values:
-    BOLT_BAT_5V_REFERENCE_V_1: 5.01595
-  response: 7EF056240D300D1
-- expected_values:
-    BOLT_BAT_5V_REFERENCE_V_1: 5.01602
-  response: 7EF056240D300D2
-- expected_values:
-    BOLT_BAT_5V_REFERENCE_V_1: 5.0161
-  response: 7EF056240D300D3
-- expected_values:
-    BOLT_BAT_5V_REFERENCE_V_1: 5.01617
-  response: 7EF056240D300D4
+    BOLT_BAT_5V_REFERENCE_V_1: 4.98306
+  response: 7EF056240D3FF22
