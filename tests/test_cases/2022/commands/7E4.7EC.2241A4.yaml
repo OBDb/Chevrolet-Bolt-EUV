@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BOLT_BAT_CLT_TEMP: 22
   response: 7EC046241A43E
+- expected_values:
+    BOLT_BAT_CLT_TEMP: 23
+  response: 7EC046241A43F

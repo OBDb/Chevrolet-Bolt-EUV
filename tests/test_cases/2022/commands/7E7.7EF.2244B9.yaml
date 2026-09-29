@@ -4,17 +4,11 @@ test_cases:
     BOLT_BAT_CELL_AVG_V_2: 4.02012
   response: 7EF056244B97DA1
 - expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 4.02162
-  response: 7EF056244B97DAD
+    BOLT_BAT_CELL_AVG_V_2: 4.03225
+  response: 7EF056244B97E02
 - expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 4.02312
-  response: 7EF056244B97DB9
+    BOLT_BAT_CELL_AVG_V_2: 4.06288
+  response: 7EF056244B97EF7
 - expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 4.02462
-  response: 7EF056244B97DC5
-- expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 4.02625
-  response: 7EF056244B97DD2
-- expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 4.02775
-  response: 7EF056244B97DDE
+    BOLT_BAT_CELL_AVG_V_2: 4.06588
+  response: 7EF056244B97F0F

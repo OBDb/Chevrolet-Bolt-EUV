@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_CABIN_HEATER_MEAS_W: 0
   response: 7EC056241B40000
+- expected_values:
+    BOLT_CABIN_HEATER_MEAS_W: 500
+  response: 7EC056241B401F4
+- expected_values:
+    BOLT_CABIN_HEATER_MEAS_W: 1800
+  response: 7EC056241B40708

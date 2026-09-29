@@ -4,23 +4,11 @@ test_cases:
     BOLT_BAT_PACK_CURRENT_HD: 1.4
   response: 7EF056240D4001C
 - expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 1.45
-  response: 7EF056240D4001D
+    BOLT_BAT_PACK_CURRENT_HD: -62.7
+  response: 7EF056240D4FB1A
 - expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 1.6
-  response: 7EF056240D40020
+    BOLT_BAT_PACK_CURRENT_HD: -11.2
+  response: 7EF056240D4FF20
 - expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 1.65
-  response: 7EF056240D40021
-- expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 1.8
-  response: 7EF056240D40024
-- expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 1.9
-  response: 7EF056240D40026
-- expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 2.05
-  response: 7EF056240D40029
-- expected_values:
-    BOLT_BAT_PACK_CURRENT_HD: 2.1
-  response: 7EF056240D4002A
+    BOLT_BAT_PACK_CURRENT_HD: -1.75
+  response: 7EF056240D4FFDD

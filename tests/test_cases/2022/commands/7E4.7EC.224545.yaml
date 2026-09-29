@@ -1,6 +1,15 @@
 command_id: 7E4.7EC.224545
 test_cases:
 - expected_values:
+    BOLT_CHARGER_AC_CTRL_V: 0.05
+  response: 7EC0462454501
+- expected_values:
+    BOLT_CHARGER_AC_CTRL_V: 5.6
+  response: 7EC0462454570
+- expected_values:
+    BOLT_CHARGER_AC_CTRL_V: 5.65
+  response: 7EC0462454571
+- expected_values:
     BOLT_CHARGER_AC_CTRL_V: 6
   response: 7EC0462454578
 - expected_values:

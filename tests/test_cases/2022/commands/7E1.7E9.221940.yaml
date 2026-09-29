@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_ATF_T: 29
   response: '7E90462194045'
+- expected_values:
+    BOLT_ATF_T: 30
+  response: '7E90462194046'
+- expected_values:
+    BOLT_ATF_T: 32
+  response: '7E90462194048'

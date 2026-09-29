@@ -1,8 +1,8 @@
 command_id: 7E4.7EC.2282B2
 test_cases:
 - expected_values:
-    BOLT_CABIN_AC_LOW_SIDE_P: 619.5738
-  response: 7EC046282B2E3
+    BOLT_CABIN_AC_LOW_SIDE_P: 223.8108
+  response: 7EC046282B252
 - expected_values:
     BOLT_CABIN_AC_LOW_SIDE_P: 622.3032
   response: 7EC046282B2E4

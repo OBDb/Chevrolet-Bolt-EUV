@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 62.01
   response: 7EC0562441A01DD
+- expected_values:
+    BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 193.96
+  response: 7EC0562441A05D4
+- expected_values:
+    BOLT_MOTOR_CTRL_MODULE_NEGATIVE_V: 196.04
+  response: 7EC0562441A05E4
