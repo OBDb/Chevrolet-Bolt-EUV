@@ -16,5 +16,8 @@ test_cases:
     BOLT_TRANS_FLUID_PMP_AUX: 20.78431
   response: 7E904622C0535
 - expected_values:
+    BOLT_TRANS_FLUID_PMP_AUX: 21.96078
+  response: 7E904622C0538
+- expected_values:
     BOLT_TRANS_FLUID_PMP_AUX: 100
   response: 7E904622C05FF

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BOLT_INTERNAL_MODE_SWITCH_5: 95
   response: 7E9046233C75F
+- expected_values:
+    BOLT_INTERNAL_MODE_SWITCH_5: 97
+  response: 7E9046233C761

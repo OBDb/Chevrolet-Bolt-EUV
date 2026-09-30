@@ -4,29 +4,5 @@ test_cases:
     BOLT_14V_POWER_MODULE: 12.94118
   response: 7E804621C3821
 - expected_values:
-    BOLT_14V_POWER_MODULE: 41.56863
-  response: 7E804621C386A
-- expected_values:
-    BOLT_14V_POWER_MODULE: 41.96078
-  response: 7E804621C386B
-- expected_values:
-    BOLT_14V_POWER_MODULE: 42.35294
-  response: 7E804621C386C
-- expected_values:
-    BOLT_14V_POWER_MODULE: 55.29412
-  response: 7E804621C388D
-- expected_values:
-    BOLT_14V_POWER_MODULE: 57.2549
-  response: 7E804621C3892
-- expected_values:
-    BOLT_14V_POWER_MODULE: 57.64706
-  response: 7E804621C3893
-- expected_values:
-    BOLT_14V_POWER_MODULE: 62.35294
-  response: 7E804621C389F
-- expected_values:
-    BOLT_14V_POWER_MODULE: 62.7451
-  response: 7E804621C38A0
-- expected_values:
     BOLT_14V_POWER_MODULE: 90.98039
   response: 7E804621C38E8

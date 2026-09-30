@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     BOLT_TRANS_RPM: 2999.875
   response: 7E9056219425DBF
+- expected_values:
+    BOLT_TRANS_RPM: 3505.25
+  response: 7E9056219426D8A

@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     BOLT_AIR_TEMP_AMBIENT_2: 22
   response: 7E80462232C3E
+- expected_values:
+    BOLT_AIR_TEMP_AMBIENT_2: 24
+  response: 7E80462232C40
