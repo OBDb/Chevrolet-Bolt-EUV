@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BOLT_BAT_PACK_TEMP_MIN_ALT: 22
   response: 7E9046224173E
+- expected_values:
+    BOLT_BAT_PACK_TEMP_MIN_ALT: 26
+  response: '7E90462241742'

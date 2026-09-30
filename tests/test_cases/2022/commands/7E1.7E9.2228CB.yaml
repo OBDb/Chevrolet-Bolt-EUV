@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     BOLT_MOTOR_T: 57
   response: 7E9046228CB61
+- expected_values:
+    BOLT_MOTOR_T: 67
+  response: 7E9046228CB6B
