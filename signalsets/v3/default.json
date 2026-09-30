@@ -129,7 +129,7 @@
   "signals": [
     {"id": "BOLT_AXLE_TQ_DRIVER_REQ", "path": "Engine", "fmt": { "len": 16, "max": 43001, "min": -22534, "add": -22534, "unit": "newtonMeters" }, "name": "Axle torque driver requested"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "248C"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "248C"}, "freq": 1,
   "signals": [
     {"id": "BOLT_CONTACTOR_OPEN_1", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Contactor open reason history 1"}
   ]},
