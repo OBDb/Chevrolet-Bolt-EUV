@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.222492
 test_cases:
 - expected_values:
+    BOLT_CONTACTOR_OPEN_7: 0
+  response: '7E90462249200'
+- expected_values:
     BOLT_CONTACTOR_OPEN_7: 8
   response: '7E90462249208'

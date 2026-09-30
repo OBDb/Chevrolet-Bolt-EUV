@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BOLT_CONTACTOR_OPEN_4: 2
   response: 7E90462248F02
+- expected_values:
+    BOLT_CONTACTOR_OPEN_4: 8
+  response: 7E90462248F08

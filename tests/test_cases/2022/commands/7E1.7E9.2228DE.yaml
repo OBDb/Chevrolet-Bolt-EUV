@@ -4,8 +4,8 @@ test_cases:
     BOLT_MOTOR_PHASE_U: 0.2
   response: 7E9056228DE0005
 - expected_values:
+    BOLT_MOTOR_PHASE_U: -62.4
+  response: 7E9056228DEF9E8
+- expected_values:
     BOLT_MOTOR_PHASE_U: -16.72
   response: 7E9056228DEFE5E
-- expected_values:
-    BOLT_MOTOR_PHASE_U: -12.88
-  response: 7E9056228DEFEBE

@@ -4,6 +4,9 @@ test_cases:
     BOLT_AXLE_TQ_DRIVER_REQ: -404
   response: '7E9056224345672'
 - expected_values:
+    BOLT_AXLE_TQ_DRIVER_REQ: -204
+  response: 7E905622434573A
+- expected_values:
     BOLT_AXLE_TQ_DRIVER_REQ: -2
   response: '7E9056224345804'
 - expected_values:
