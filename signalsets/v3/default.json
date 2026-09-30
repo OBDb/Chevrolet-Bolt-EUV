@@ -93,7 +93,7 @@
   "signals": [
     {"id": "BOLT_IGN_POWER_MODE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Ignition power mode"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "20D0"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "20D0"}, "freq": 1,
   "signals": [
     {"id": "BOLT_IGN_INPUT_ON_OFF", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Ignition input on/off/start"}
   ]},
