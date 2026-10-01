@@ -17,7 +17,7 @@
   "signals": [
     {"id": "BOLT_MIL_CAUSE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "MIL cause"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1564"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1564"}, "freq": 1,
   "signals": [
     {"id": "BOLT_CABIN_AC_HIGH_SIDE_P", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Cabin A/C high side sensor pressure"}
   ]},
