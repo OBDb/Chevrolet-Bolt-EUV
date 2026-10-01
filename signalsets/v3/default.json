@@ -37,7 +37,7 @@
   "signals": [
     {"id": "BOLT_MIL_STAT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "MIL status"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2067"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2067"}, "freq": 1,
   "signals": [
     {"id": "BOLT_CRUISE_CTRL_STAT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Cruise control status"}
   ]},
@@ -205,7 +205,7 @@
   "signals": [
     {"id": "BOLT_MOTOR_PHASE_V", "path": "Engine", "fmt": { "len": 16, "max": 1310, "min": -1310, "div": 25, "sign": true, "unit": "amps" }, "name": "Motor phase V current"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "28E4"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "28E4"}, "freq": 1,
   "signals": [
     {"id": "BOLT_MOTOR_PHASE_W", "path": "Engine", "fmt": { "len": 16, "max": 1310, "min": -1310, "div": 25, "sign": true, "unit": "amps" }, "name": "Motor phase W current"}
   ]},
