@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.2228E4
+test_cases:
+- expected_values:
+    BOLT_MOTOR_PHASE_W: 0.64
+  response: 7E9056228E40010
+- expected_values:
+    BOLT_MOTOR_PHASE_W: 1.16
+  response: 7E9056228E4001D
+- expected_values:
+    BOLT_MOTOR_PHASE_W: 12.04
+  response: 7E9056228E4012D
+- expected_values:
+    BOLT_MOTOR_PHASE_W: 78.32
+  response: 7E9056228E407A6
+- expected_values:
+    BOLT_MOTOR_PHASE_W: 97.12
+  response: 7E9056228E4097C
+- expected_values:
+    BOLT_MOTOR_PHASE_W: -89.6
+  response: 7E9056228E4F740
+- expected_values:
+    BOLT_MOTOR_PHASE_W: -64.32
+  response: 7E9056228E4F9B8
+- expected_values:
+    BOLT_MOTOR_PHASE_W: -1.88
+  response: 7E9056228E4FFD1
+- expected_values:
+    BOLT_MOTOR_PHASE_W: -0.16
+  response: 7E9056228E4FFFC
