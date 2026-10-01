@@ -688,7 +688,7 @@
   "signals": [
     {"id": "BOLT_CHARGER_SYSTEM_EFFICIENCY", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Charger system efficiency, active test status"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4565"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4565"}, "freq": 1,
   "signals": [
     {"id": "BOLT_CHARGER_SYSTEM_EFFICIENCY_ACTIVE", "path": "Engine", "fmt": { "len": 8, "max": 199, "mul": 25, "div": 32, "unit": "percent" }, "name": "Charger system efficiency, active test"}
   ]},
