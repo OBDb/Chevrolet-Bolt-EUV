@@ -77,7 +77,7 @@
   "signals": [
     {"id": "BOLT_HIGH_V_CIRCUIT_HPCM", "path": "Engine", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "volts" }, "name": "High voltage circuit, hybrid powertrain control module"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1C26"}, "freq": 5, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1C26"}, "freq": 5,
   "signals": [
     {"id": "BOLT_MOTOR_INVERTER_T_1", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Motor inverter temperature sensor 1"}
   ]},
