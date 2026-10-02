@@ -305,7 +305,7 @@
   "signals": [
     {"id": "BOLT_ONE_PEDAL_DRIVING_4", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "One pedal driving inhibit history 4"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "36FA"}, "freq": 0.25, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "36FA"}, "freq": 0.25,
   "signals": [
     {"id": "BOLT_ONE_PEDAL_DRIVING_5", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "One pedal driving inhibit history 5"}
   ]},
