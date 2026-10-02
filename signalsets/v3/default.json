@@ -517,7 +517,7 @@
   "signals": [
     {"id": "BOLT_HIGH_V_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 4909, "min": -4908, "mul": -40, "div": 267, "sign": true, "unit": "amps" }, "name": "High voltage current"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4357"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4357"}, "freq": 1,
   "signals": [
     {"id": "BOLT_ELECTRONICS_CLT_PMP_CMD", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Electronics coolant pump, commanded"}
   ]},
