@@ -33,7 +33,7 @@
   "signals": [
     {"id": "BOLT_14V_POWER_MODULE_V", "path": "Engine", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "14V power module set point voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2020"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2020"}, "freq": 1,
   "signals": [
     {"id": "BOLT_MIL_STAT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "MIL status"}
   ]},
@@ -253,7 +253,7 @@
   "signals": [
     {"id": "BOLT_INTERNAL_MODE_SWITCH_10", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Internal mode switch 10"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "33CD"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "33CD"}, "freq": 1,
   "signals": [
     {"id": "BOLT_INTERNAL_MODE_SWITCH_11", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Internal mode switch 11"}
   ]},
@@ -1168,7 +1168,7 @@
   "signals": [
     {"id": "BOLT_HVBAT_CMU96_VOLT", "path": "Battery.Modules.96", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 65535, "unit": "volts" }, "name": "HV battery module 96 voltage"}
   ]},
-{ "hdr": "7E7", "rax": "7EF", "cmd": {"22": "44B9"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E7", "rax": "7EF", "cmd": {"22": "44B9"}, "freq": 1,
   "signals": [
     {"id": "BOLT_BAT_CELL_AVG_V_2", "path": "Engine", "fmt": { "len": 16, "max": 8.19, "div": 8000, "unit": "volts" }, "name": "Battery cell average voltage 2"}
   ]},
