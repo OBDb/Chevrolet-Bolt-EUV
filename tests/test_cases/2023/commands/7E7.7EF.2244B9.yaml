@@ -1,20 +1,14 @@
 command_id: 7E7.7EF.2244B9
 test_cases:
 - expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 3.77288
-  response: 7EF056244B975E7
+    BOLT_BAT_CELL_AVG_V_2: 3.698
+  response: 7EF056244B97390
+- expected_values:
+    BOLT_BAT_CELL_AVG_V_2: 3.74388
+  response: 7EF056244B974FF
+- expected_values:
+    BOLT_BAT_CELL_AVG_V_2: 3.74538
+  response: 7EF056244B9750B
 - expected_values:
     BOLT_BAT_CELL_AVG_V_2: 3.77888
   response: 7EF056244B97617
-- expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 3.78662
-  response: 7EF056244B97655
-- expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 3.78812
-  response: 7EF056244B97661
-- expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 3.79112
-  response: 7EF056244B97679
-- expected_values:
-    BOLT_BAT_CELL_AVG_V_2: 3.79425
-  response: 7EF056244B97692
