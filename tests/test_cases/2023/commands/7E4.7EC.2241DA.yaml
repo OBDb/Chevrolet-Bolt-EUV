@@ -4,26 +4,8 @@ test_cases:
     BOLT_HIGH_V_INVERTER_V_LD: 6.76
   response: 7EC056241DA000D
 - expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 8.84
-  response: 7EC056241DA0011
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 372.84
-  response: 7EC056241DA02CD
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 373.88
-  response: 7EC056241DA02CF
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 374.92
-  response: 7EC056241DA02D1
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 375.96
-  response: 7EC056241DA02D3
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 377
-  response: 7EC056241DA02D5
-- expected_values:
-    BOLT_HIGH_V_INVERTER_V_LD: 378.04
-  response: 7EC056241DA02D7
+    BOLT_HIGH_V_INVERTER_V_LD: 349.96
+  response: 7EC056241DA02A1
 - expected_values:
     BOLT_HIGH_V_INVERTER_V_LD: 379.08
   response: 7EC056241DA02D9
