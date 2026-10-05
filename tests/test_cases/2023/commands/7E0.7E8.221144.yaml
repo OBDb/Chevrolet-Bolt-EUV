@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221144
 test_cases:
 - expected_values:
-    BOLT_CABIN_AC_HIGH_SIDE_V: 1.28
-  response: '7E80462114440'
+    BOLT_CABIN_AC_HIGH_SIDE_V: 1.14
+  response: '7E80462114439'
 - expected_values:
-    BOLT_CABIN_AC_HIGH_SIDE_V: 2.06
-  response: '7E80462114467'
+    BOLT_CABIN_AC_HIGH_SIDE_V: 2.4
+  response: '7E80462114478'
