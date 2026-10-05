@@ -1,0 +1,8 @@
+command_id: 7E4.7EC.22432D
+test_cases:
+- expected_values:
+    BOLT_BAT_PACK_V_LD: 372.84
+  response: 7EC0562432D02CD
+- expected_values:
+    BOLT_BAT_PACK_V_LD: 379.08
+  response: 7EC0562432D02D9

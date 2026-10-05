@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221940
+test_cases:
+- expected_values:
+    BOLT_ATF_T: 39
+  response: 7E9046219404F
+- expected_values:
+    BOLT_ATF_T: 50
+  response: 7E9046219405A

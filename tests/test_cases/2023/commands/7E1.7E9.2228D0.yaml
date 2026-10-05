@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.2228D0
+test_cases:
+- expected_values:
+    BOLT_MOTOR_CONTROLLER_ISOLATION_V: 0
+  response: 7E9056228D00000
+- expected_values:
+    BOLT_MOTOR_CONTROLLER_ISOLATION_V: 189.42
+  response: 7E9056228D049FE
+- expected_values:
+    BOLT_MOTOR_CONTROLLER_ISOLATION_V: 189.67
+  response: 7E9056228D04A17

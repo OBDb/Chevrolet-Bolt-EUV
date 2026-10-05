@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221C24
+test_cases:
+- expected_values:
+    BOLT_HIGH_V_CIRCUIT_HPCM: 6.61
+  response: 7E905621C240295
+- expected_values:
+    BOLT_HIGH_V_CIRCUIT_HPCM: 376.27
+  response: 7E905621C2492FB
+- expected_values:
+    BOLT_HIGH_V_CIRCUIT_HPCM: 378.89
+  response: 7E905621C249401
