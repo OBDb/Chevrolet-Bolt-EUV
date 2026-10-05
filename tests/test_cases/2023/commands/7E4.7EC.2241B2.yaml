@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.2241B2
+test_cases:
+- expected_values:
+    BOLT_CABIN_AC_MEAS_W: 0
+  response: 7EC056241B20000
+- expected_values:
+    BOLT_CABIN_AC_MEAS_W: 1279
+  response: 7EC056241B204FF
+- expected_values:
+    BOLT_CABIN_AC_MEAS_W: 6500
+  response: 7EC056241B21964
