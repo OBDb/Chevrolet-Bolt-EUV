@@ -724,7 +724,7 @@
   "signals": [
     {"id": "BOLT_CABIN_AC_COMP_SPD", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "rpm" }, "name": "Cabin A/C compressor speed"}
   ]},
-{ "hdr": "7E4", "rax": "7EC", "dbg": true, "cmd": {"22": "82B7"}, "freq": 1,
+{ "hdr": "7E4", "rax": "7EC", "cmd": {"22": "82B7"}, "freq": 1, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "BOLT_CABIN_AC_COMP_POWER", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "watts" }, "name": "Cabin A/C compressor power consumption"}
   ]},
